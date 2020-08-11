@@ -1,0 +1,1 @@
+# magento-fix-1.6
